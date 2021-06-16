@@ -1,0 +1,12 @@
+{
+  "name": "test-ci-cd",
+  "displayName": "test-ci-cd",
+  "expo": {
+    "name": "test-ci-cd",
+    "slug": "test-ci-cd",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
